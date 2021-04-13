@@ -1,0 +1,172 @@
+CREATEING HTML:
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<meta name="description" context="this is good website">
+	<title>srujan's website</title>
+
+	</head>
+
+
+
+
+</html>
+---------------------------------------------------------------------------------------------------------------------------
+
+FORMATING PAGE:
+
+
+<body>
+		<header>
+
+		</header>
+		<main>
+			<article>
+			
+				<section>
+
+				
+				</section>
+
+			</article>
+
+		</main>
+		<footer>
+    
+
+		</footer>
+	 
+	<h5 style="colour:  red;">srujan's website</h5>
+
+	</body>
+
+------------------------------------------------------------------------------------- -------------------------------------
+
+
+links:
+<a href="https://www.google.com" target="_blank"><h2>google's homepage</h2></a>
+
+---------------------------------------------------------------------------------------------------------------------------
+IMAGES:
+
+<a href="image.jpg">image</a>
+<img src="image.jpg"alt="a real image"/>
+<img width="100" heigh="60" src="image.jpg"alt="a real image"/>
+----------------------------------------------------------------------------------------------------------------------------
+VIDEOS AND YOUTUBE IFRAMES:
+
+<video src="video.mp4" controls></video>
+<video src="video.mp4" poster="image.jpg" controls></video>
+<video src="video.mp4" autoplay controls></video>
+<video src="video.mp4" loop controls></video>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pQN-pnXPaVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-------------------------------------------------------------------------------------------
+LISTS:
+
+<ol>or<ul>
+<li>apples</l i>
+</ol>or</ul>
+
+
+<dl>
+	<dt>apples</dt>
+	<dd>- they are red</dd>
+	<dt>apugbkug</dt>
+	<dd>- they are red</dd>
+
+</dl>
+-----------------------------------------------------------------------------------------------
+TABLES:
+
+<table>
+
+<caption>list of numbers</caption>
+
+	<tr>
+		<th>num1</th>
+		<th>num2</th>
+		<th>num3</th>
+	</tr>
+
+
+
+	<tr>
+		<td>one</td>
+		<td>two</td>
+		<td>three</td> 
+	</tr>
+
+        
+	
+	<tr>
+		<td>three</td>
+		<td>four</td>
+		<td>five</td>
+	</tr>
+
+
+</table> 
+
+----------------------------------------------------------------------------------------------
+DIVS AND SPANS:
+
+<span>span1</span>  :inline elements
+<span>span2</span>
+
+
+<div>div1</div>     :block elements
+<div>div2</div>
+
+-------------------------------------------------------------------------------------------
+INPUT AND FORMS:
+
+<input type="text" value="enter your username"
+<input type="password"/>
+
+<textarea rows="10" cols="30">
+
+enter a paragraph
+
+</textarea>
+
+<input type="date"/> 
+
+<input type="range"/>
+
+<input type="file"/>
+
+<input type="checkbox"/>
+
+<input name="btn" type="radio"/>
+
+ <input type="submit"/> 
+
+
+FORM:
+
+<form>
+	<input type="checkbox"/>
+
+</form>
+
+-------------------------------------------------------------------------------------------
+
+IFRAME:
+
+<iframe src="http://giraffeacademy.com/" width="1000" height="800" frameborde"0" >sorry</iframe>
+
+------------------------------------------------------------------------------------------
+
+META TAGS:
+
+<meta charset="UTF-8">
+<meta name="description" content="your description">
+<meta name="author" content="srujan'>
+<meta name="keywords" content=
+
+
+ 
